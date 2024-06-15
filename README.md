@@ -1,4 +1,4 @@
-# Board-to-board-communication-through-CAN-communication-protocol
+# CAN-communication-protocol-between-two-STM32-boards-in-Normal-mode
 Following repository contains HAL C codes for developing a communication between two boards - a master board and a slave board, through Controller Area Network (CAN) communication protocol.
 Only the main source files are added in this repository as the rest of the files are generated automatically by the STMCubeIDE.
 Both the main .c files for respective master and slave board is included in the repository.
